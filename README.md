@@ -7,13 +7,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaacmartinscode/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:isaacmartins.code@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5588996317228)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsaacMartins-code)
 
 > Olá! Me chamo Isaac e me formei como técnico em Desenvolvimento de Sistemas em um curso integrado ao ensino médio no ano de 2024. Iniciei curso superior em Análise e Desenvolvimento de Sistemas em 2025 com previsão de término para 2027. Tenho como foco Back-End com a linguagem Java.
 
 ## Habilidades
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+<img width="120" height="120" alt="JavaLogo" src="https://github.com/user-attachments/assets/d42dfbd1-b5d9-4760-9526-2e7bd8bdb87a" />
+<img width="100" height="100" alt="GitLogo" src="https://github.com/user-attachments/assets/9c1ac6dc-d008-4291-957b-2df6566f82c4" />
+<img width="105" height="110" alt="AWSCloudLogo" src="https://github.com/user-attachments/assets/03b336c3-9667-4d3e-973e-97fbbe0dac45"/>
+
+
 
 ## Projetos Pessoais
 

@@ -20,6 +20,7 @@
 ## 📌Principais repositórios
 
 [![Repo Metriks](https://github-readme-stats.vercel.app/api/pin/?username=IsaacMartins-code&repo=Metriks&bg_color=303030&border_color=4e7896&show_icons=true&icon_color=30A3DC&title_color=f68318&text_color=FFF)](https://github.com/IsaacMartins-code/Metriks)
+[![Repo Mesa Cheia](https://github-readme-stats.vercel.app/api/pin/?username=IsaacMartins-code&repo=Mesa-Cheia&cache_seconds=30&bg_color=303030&border_color=4e7896&show_icons=true&icon_color=30A3DC&title_color=8e54ca&text_color=FFF)](https://github.com/IsaacMartins-code/Mesa-Cheia)
 
 
 

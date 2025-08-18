@@ -4,9 +4,7 @@
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=5005&pause=1000&color=6EAAD4&width=435&lines=Ol%C3%A1%2C+sou+Isaac+Martins!" alt="Typing SVG" /></a>
 <br>
-<br>
-
----
+<h1></h1>
 
 #### ADS | Back-End | Java | 1x AWS Certified | 1x Google Certified 
 

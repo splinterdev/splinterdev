@@ -1,4 +1,12 @@
-# Isaac Martins <img align="right" width="150" height="150" alt="gif-waltuh" src="https://github.com/user-attachments/assets/5a6e7da1-d1c1-4a44-b2c7-62fa241f091c"/>
+<img align="right" width="150" height="150" alt="gif-waltuh" src="https://github.com/user-attachments/assets/5a6e7da1-d1c1-4a44-b2c7-62fa241f091c"/>
+<br>
+<br>
+<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=5005&pause=1000&color=6EAAD4&width=435&lines=Ol%C3%A1%2C+sou+Isaac+Martins!" alt="Typing SVG" /></a>
+<br>
+<br>
+
+---
 
 #### ADS | Back-End | Java | 1x AWS Certified | 1x Google Certified 
 
@@ -14,9 +22,9 @@
 
 ## 🤹‍♂️Habilidades
 <div align="center" style="display: inline_block">
-<img width="auto" height="80" alt="JavaLogo" src="https://github.com/user-attachments/assets/d42dfbd1-b5d9-4760-9526-2e7bd8bdb87a" />
-<img width="auto" height="80" alt="GitLogo" src="https://github.com/user-attachments/assets/9c1ac6dc-d008-4291-957b-2df6566f82c4" />
-<img width="auto" height="80" alt="AWSCloudLogo" src="https://github.com/user-attachments/assets/03b336c3-9667-4d3e-973e-97fbbe0dac45"/>
+<img width="auto" height="50" alt="JavaLogo" src="https://github.com/user-attachments/assets/d42dfbd1-b5d9-4760-9526-2e7bd8bdb87a" />
+<img width="auto" height="50" alt="GitLogo" src="https://github.com/user-attachments/assets/9c1ac6dc-d008-4291-957b-2df6566f82c4" />
+<img width="auto" height="50" alt="AWSCloudLogo" src="https://github.com/user-attachments/assets/03b336c3-9667-4d3e-973e-97fbbe0dac45"/>
 </div>
 
 

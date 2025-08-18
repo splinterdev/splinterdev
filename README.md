@@ -13,10 +13,11 @@
 > Desde criança tive contato com computadores e jogos, onde me encantei por tecnologia. Apesar de nunca ter programado durante a infância , tudo mudou quando decidi fazer meu ensino médio com o curso integrado - decisão essa influenciada pela meu contato com computadores na infância. Desde os primeiros dias de aula da base técnica me encantei pelo mundo incrível que é o desenvolvimento de software, e dali em diante vi que esse era o caminho que queria seguir.👨‍💻
 
 ## 🤹‍♂️Habilidades
+<div = align="center">
 <img width="90" height="90" alt="JavaLogo" src="https://github.com/user-attachments/assets/d42dfbd1-b5d9-4760-9526-2e7bd8bdb87a" />
-<img width="70" height="70" alt="GitLogo" src="https://github.com/user-attachments/assets/9c1ac6dc-d008-4291-957b-2df6566f82c4" />
+<img width="80" height="80" alt="GitLogo" src="https://github.com/user-attachments/assets/9c1ac6dc-d008-4291-957b-2df6566f82c4" />
 <img width="80" height="80" alt="AWSCloudLogo" src="https://github.com/user-attachments/assets/03b336c3-9667-4d3e-973e-97fbbe0dac45"/>
-
+</div>
 
 
 ## 📌Principais repositórios

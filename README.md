@@ -6,7 +6,7 @@
 <br>
 <h1></h1>
 
-#### ADS | Back-End | Java | 1x AWS Certified | 1x Google Certified 
+#### ADS | Back-End | Java | AWS Cloud Foundations
 
 #### <i> Barro, Ceará, Brasil </i>
 

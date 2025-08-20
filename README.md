@@ -2,11 +2,9 @@
 <br>
 <br>
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=5005&pause=1000&color=6EAAD4&width=435&lines=Ol%C3%A1%2C+sou+Isaac+Martins!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&duration=5005&pause=1000&color=6EAAD4&width=435&lines=Ol%C3%A1%2C+sou+Isaac+Martins!" alt="Typing SVG" /></a>
 <br>
 <h1></h1>
-
-#### ADS | Back-End | Java | AWS Cloud Foundations
 
 #### <i> Barro, Ceará, Brasil </i>
 
@@ -14,9 +12,11 @@
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:isaacmartins.code@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5588996317228)
 
-> Olá! Me chamo Isaac e me formei como técnico em Desenvolvimento de Sistemas em um curso integrado ao ensino médio no ano de 2024. Iniciei curso superior em Análise e Desenvolvimento de Sistemas em maio de 2025, com previsão de término para setembro de 2028. Tenho como foco Back-End, atualmente com a linguagem Java.
+## Formações e propósito de carreira: 
+> Olá! Sou Isaac Martins Cardoso, técnico em Desenvolvimento de Sistemas (2024) e atualmente graduando em Análise e Desenvolvimento de Sistemas (2025–2028). Tenho como foco o desenvolvimento Back-End em Java, campo no qual venho me aprofundando e construindo meus primeiros projetos. Busco evoluir na área como desenvolvedor, estando por trás da lógica dos sistemas e da arquitetura dos mesmos.👨‍💻
 
-> Desde criança tive contato com computadores e jogos, onde me encantei por tecnologia. Apesar de nunca ter programado durante a infância , tudo mudou quando decidi fazer meu ensino médio com o curso integrado - decisão essa influenciada pela meu contato com computadores na infância. Desde os primeiros dias de aula da base técnica me encantei pelo mundo incrível que é o desenvolvimento de software, e dali em diante vi que esse era o caminho que queria seguir.👨‍💻
+## Um pouco mais sobre mim:
+> Desde cedo, tive interesse em explorar computadores e jogos, baixando emuladores e convertendo ROMs. Essa busca por jogos antigos e quase indisponíveis me ajudou a desenvolver afinidade com tecnologia e despertou meu interesse pelo desenvolvimento de software. Além da programação, tenho o xadrez como hobby, atividade que fortalece mais ainda meu raciocínio lógico e capacidade de análise de problemas.
 
 ## 🤹‍♂️Habilidades
 <div align="center" style="display: inline_block">

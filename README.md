@@ -1,10 +1,7 @@
 <img align="right" width="150" height="150" alt="gif-waltuh" src="https://github.com/user-attachments/assets/5a6e7da1-d1c1-4a44-b2c7-62fa241f091c"/>
 <br>
-<br>
-<br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&duration=5005&pause=1000&color=6EAAD4&width=435&lines=Ol%C3%A1%2C+sou+Isaac+Martins!" alt="Typing SVG" /></a>
-<br>
-<h1></h1>
+<h1><img src="https://skillicons.dev/icons?i=java,git,maven"/></h1>
 
 #### <i> Barro, Ceará, Brasil </i>
 
@@ -17,14 +14,6 @@
 
 ## Um pouco mais sobre mim:
 > Desde cedo, tive interesse em explorar computadores e jogos, baixando emuladores e convertendo ROMs. Essa busca por jogos antigos e quase indisponíveis me ajudou a desenvolver afinidade com tecnologia e despertou meu interesse pelo desenvolvimento de software. Além da programação, tenho o xadrez como hobby, atividade que fortalece mais ainda meu raciocínio lógico e capacidade de análise de problemas.
-
-## 🤹‍♂️Habilidades
-<div align="center" style="display: inline_block">
-<img width="auto" height="60" alt="JavaLogo" src="https://github.com/user-attachments/assets/d42dfbd1-b5d9-4760-9526-2e7bd8bdb87a" />
-<img width="auto" height="60" alt="GitLogo" src="https://github.com/user-attachments/assets/9c1ac6dc-d008-4291-957b-2df6566f82c4" />
-<img width="auto" height="60" alt="AWSCloudLogo" src="https://github.com/user-attachments/assets/03b336c3-9667-4d3e-973e-97fbbe0dac45"/>
-</div>
-
 
 ## 📌Principais repositórios
 

@@ -10,7 +10,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5588996317228)
 
 ## Formações e propósito de carreira: 
-> Olá! Sou Isaac Martins Cardoso, técnico em Desenvolvimento de Sistemas (2024) e atualmente graduando em Análise e Desenvolvimento de Sistemas (2025–2028). Tenho como foco o desenvolvimento Back-End em Java, campo no qual venho me aprofundando e construindo meus primeiros projetos. Busco evoluir na área como desenvolvedor, estando por trás da lógica dos sistemas e da arquitetura dos mesmos.👨‍💻
+> Olá! Sou Isaac Martins Cardoso, técnico em Desenvolvimento de Sistemas (2022–2024) e atualmente graduando em tecnólogo Análise e Desenvolvimento de Sistemas (2025–2028). Tenho como foco o desenvolvimento Back-End em Java, campo no qual venho me aprofundando e construindo meus primeiros projetos.  Busco evoluir na área e me tornar um desenvolvedor Web, atingindo um vasto conhecimento em frameworks como Spring, estando por trás da lógica dos sistemas e da arquitetura dos mesmos.👨‍💻
 
 ## Um pouco mais sobre mim:
 > Desde cedo, tive interesse em explorar computadores e jogos, baixando emuladores e convertendo ROMs. Essa busca por jogos antigos e quase indisponíveis me ajudou a desenvolver afinidade com tecnologia e despertou meu interesse pelo desenvolvimento de software. Além da programação, tenho o xadrez como hobby, atividade que fortalece mais ainda meu raciocínio lógico e capacidade de análise de problemas.

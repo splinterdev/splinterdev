@@ -1,4 +1,10 @@
-<img align="right" width="150" height="150" alt="gif-waltuh" src="https://github.com/user-attachments/assets/5a6e7da1-d1c1-4a44-b2c7-62fa241f091c"/>
+<picture>
+  <source media="(max-width: 600px)" srcset="">
+
+  <source media="(min-width: 601px)" srcset="https://github.com/user-attachments/assets/5a6e7da1-d1c1-4a44-b2c7-62fa241f091c"/>
+
+  <img align="right" width="150" height="150" alt="">
+</picture>
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&duration=5005&pause=1000&color=6EAAD4&width=435&lines=Ol%C3%A1%2C+sou+Isaac+Martins!" alt="Typing SVG" /></a>
 <h1>

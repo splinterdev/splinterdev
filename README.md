@@ -28,6 +28,6 @@
 
 ## 🐱‍👤Github Stats
 <div align="center" style="display: inline_block"> 
-  <img width="400" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=IsaacMartins-code&theme=transparent&bg_color=303030&border_color=4e7896&show_icons=true&icon_color=30A3DC&title_color=75b4e2&text_color=FFF&cache_seconds=30"/> 
+  <img width="400" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=IsaacMartins-code&theme=transparent&bg_color=303030&border_color=4e7896&show_icons=true&icon_color=30A3DC&title_color=75b4e2&text_color=FFF"/> 
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMartins-code&layout=compact&langs_count=7&title_color=75b4e2&text_color=FFF&bg_color=303030&border_color=4e7896&cache_seconds=30"/>
 </div>

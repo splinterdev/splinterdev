@@ -12,7 +12,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:isaacmartins.code@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5588996317228)
 
-## Formações e propósito de carreira: 
 > Olá! Sou Isaac Martins Cardoso, técnico em Desenvolvimento de Sistemas (2022–2024) e atualmente graduando em superior de Análise e Desenvolvimento de Sistemas (2025–2028). Tenho como foco o desenvolvimento Back-End em Java, campo no qual venho me aprofundando e construindo meus primeiros projetos.  Busco evoluir na área e me tornar um desenvolvedor Web, atingindo um vasto conhecimento em frameworks como Spring, estando por trás da lógica dos sistemas e da arquitetura dos mesmos.👨‍💻
 
 ## 📌Principais repositórios

@@ -17,15 +17,15 @@
 
 <div align="center">
 
-  [![Repo Metriks](https://github-readme-stats.vercel.app/api/pin/?username=IsaacMartins-code&repo=Metriks&cache_seconds=30&bg_color=303030&border_color=4e7896&show_icons=true&icon_color=30A3DC&title_color=f68318&text_color=FFF)](https://github.com/IsaacMartins-code/Metriks)
-  [![Repo Mesa Cheia](https://github-readme-stats.vercel.app/api/pin/?username=IsaacMartins-code&repo=Mesa-Cheia&cache_seconds=30&bg_color=303030&border_color=4e7896&show_icons=true&icon_color=30A3DC&title_color=8e54ca&text_color=FFF)](https://github.com/IsaacMartins-code/Mesa-Cheia)
-  [![Repo Sudoku](https://github-readme-stats.vercel.app/api/pin/?username=IsaacMartins-code&repo=Sudoku&cache_seconds=31&bg_color=303030&border_color=4e7896&show_icons=true&icon_color=30A3DC&title_color=f68318&text_color=FFF)](https://github.com/IsaacMartins-code/Sudoku)
+  [![Repo Metriks](https://github-readme-stats.vercel.app/api/pin/?username=splinterdev&repo=Metriks&cache_seconds=30&bg_color=303030&border_color=4e7896&show_icons=true&icon_color=30A3DC&title_color=f68318&text_color=FFF)](https://github.com/splinterdev/Metriks)
+  [![Repo Mesa Cheia](https://github-readme-stats.vercel.app/api/pin/?username=splinterdev&repo=Mesa-Cheia&cache_seconds=30&bg_color=303030&border_color=4e7896&show_icons=true&icon_color=30A3DC&title_color=8e54ca&text_color=FFF)](https://github.com/splinterdev/Mesa-Cheia)
+  [![Repo Sudoku](https://github-readme-stats.vercel.app/api/pin/?username=splinterdev&repo=Sudoku&cache_seconds=31&bg_color=303030&border_color=4e7896&show_icons=true&icon_color=30A3DC&title_color=f68318&text_color=FFF)](https://github.com/splinterdev)
   
 </div>
 
 
 ## ⏳Github Stats
 <div align="center" style="display: inline_block"> 
-  <img width="400" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=IsaacMartins-code&theme=transparent&bg_color=303030&border_color=4e7896&show_icons=true&icon_color=30A3DC&title_color=75b4e2&text_color=FFF"/> 
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMartins-code&layout=compact&langs_count=7&title_color=75b4e2&text_color=FFF&bg_color=303030&border_color=4e7896&cache_seconds=30"/>
+  <img width="400" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=splinterdev&theme=transparent&bg_color=303030&border_color=4e7896&show_icons=true&icon_color=30A3DC&title_color=75b4e2&text_color=FFF"/> 
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=splinterdev&layout=compact&langs_count=7&title_color=75b4e2&text_color=FFF&bg_color=303030&border_color=4e7896&cache_seconds=30"/>
 </div>

@@ -10,7 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaacmartinscode/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:isaacmartins.code@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5588996317228)
 
 > Olá! Sou Isaac Martins Cardoso, técnico em Desenvolvimento de Sistemas (2022–2024) e atualmente graduando em superior de Análise e Desenvolvimento de Sistemas (2025–2028). Tenho como foco o desenvolvimento Back-End em Java, campo no qual venho me aprofundando e construindo meus primeiros projetos.  Busco evoluir na área e me tornar um desenvolvedor Web, atingindo um vasto conhecimento em frameworks como Spring, estando por trás da lógica dos sistemas e da arquitetura dos mesmos.👨‍💻
 
@@ -25,7 +24,7 @@
 </div>
 
 
-## 🐱‍👤Github Stats
+## ⏳Github Stats
 <div align="center" style="display: inline_block"> 
   <img width="400" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=IsaacMartins-code&theme=transparent&bg_color=303030&border_color=4e7896&show_icons=true&icon_color=30A3DC&title_color=75b4e2&text_color=FFF"/> 
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMartins-code&layout=compact&langs_count=7&title_color=75b4e2&text_color=FFF&bg_color=303030&border_color=4e7896&cache_seconds=30"/>

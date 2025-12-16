@@ -1,5 +1,4 @@
 <div align="center">
-  <img align="right" width="150" height="150" alt="gif-waltuh" src= "https://github.com/user-attachments/assets/5a6e7da1-d1c1-4a44-b2c7-62fa241f091c"/>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=50&pause=1500&color=6EAAD4&center=true&width=700&height=65&lines=welcome+to+Isaac's+github+%3A%5D" alt="Typing SVG" /></a>
   <h1>
     <img src="https://skillicons.dev/icons?i=java,mysql,maven,git,idea"/> 

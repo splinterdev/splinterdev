@@ -16,11 +16,14 @@
 
   ##
 
-  ### Main Skill / Learning in this moment
+  ### Main Stack / Currently learning
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,postman"/> 
 
   ### Tools
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width=48>
   <img src="https://skillicons.dev/icons?i=eclipse,idea,maven,git,github"/> 
+
+  ### Just curiosity:
+  <img src="https://skillicons.dev/icons?i=godot,c"/> 
   
 </div>

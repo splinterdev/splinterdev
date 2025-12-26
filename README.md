@@ -3,7 +3,7 @@
   <br>
   <br>
   <img alt="Github Stats" height="160em" src="https://github-readme-stats.vercel.app/api?username=splinterdev&theme=transparent&bg_color=303030&border_color=4e7896&show_icons=true&icon_color=30A3DC&title_color=75b4e2&text_color=FFF"/> 
-  <img alt="Top Langs" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=splinterdev&layout=compact&langs_count=7&title_color=75b4e2&text_color=FFF&bg_color=303030&border_color=4e7896&cache_seconds=30"/>
+  <img alt="Top Langs" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=splinterdev&layout=compact&langs_count=7&title_color=75b4e2&text_color=FFF&bg_color=303030&border_color=4e7896"/>
   
   ##
   
@@ -17,7 +17,7 @@
   ##
 
   ### Main Stack / Currently learning
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,postman"/> 
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,postman"/> 
 
   ### Tools
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width=48>
@@ -25,5 +25,7 @@
 
   ### Just curiosity
   <img src="https://skillicons.dev/icons?i=godot,c"/> 
-  
+
+  #
+  > <i>O que fazemos em vida ecoa na eternidade - Maximus Décimus Meridius</i>
 </div>

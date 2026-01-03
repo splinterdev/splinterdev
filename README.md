@@ -17,7 +17,7 @@
   ##
 
   ### Main Stack & Currently learning
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker"/> 
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql"/> 
 
   ### Tools
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width=48>

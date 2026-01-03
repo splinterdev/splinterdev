@@ -12,20 +12,20 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaacmartinscode/)
   [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:isaacmartins.code@gmail.com)
   
-  Olá! Sou Isaac Martins Cardoso, técnico em Desenvolvimento de Sistemas (2022–2024) e atualmente graduando em superior de Análise e Desenvolvimento de Sistemas (2025–2027). Tenho como foco o desenvolvimento Back-End em Java, campo no qual venho me aprofundando e       construindo meus primeiros projetos.  Busco evoluir na área e me tornar um desenvolvedor Web, atingindo um vasto conhecimento em frameworks como Spring, estando por trás da lógica dos sistemas e da arquitetura dos mesmos.
+  Olá! Sou Isaac Martins Cardoso, técnico em Desenvolvimento de Sistemas (2022–2024) e atualmente graduando em superior de Análise e Desenvolvimento de Sistemas (2025–2027). Tenho como foco o desenvolvimento Back-End Web, campo no qual venho me aprofundando e construindo meus primeiros projetos. Busco evoluir na área, atingindo um vasto conhecimento em frameworks como Spring e no desenvolvimento de APIs, estando por trás da lógica dos sistemas e da arquitetura dos mesmos.
 
   ##
 
-  ### Main Stack / Currently learning
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,postman"/> 
+  ### Main Stack & Currently learning
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker"/> 
 
   ### Tools
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width=48>
-  <img src="https://skillicons.dev/icons?i=eclipse,idea,maven,git,github"/> 
+  <img src="https://skillicons.dev/icons?i=postman,idea,git,github"/> 
 
-  ### Just curiosity
+  ### Exploring
   <img src="https://skillicons.dev/icons?i=godot,c"/> 
-
+  
   #
   > <i>O que fazemos em vida ecoa na eternidade - Maximus Décimus Meridius</i>
 </div>

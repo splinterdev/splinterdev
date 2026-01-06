@@ -22,9 +22,6 @@
   ### Tools
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width=48>
   <img src="https://skillicons.dev/icons?i=postman,idea,git,github"/> 
-
-  ### Exploring
-  <img src="https://skillicons.dev/icons?i=godot,c"/> 
   
   #
   > <i>O que fazemos em vida ecoa na eternidade - Maximus Décimus Meridius</i>

@@ -12,7 +12,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaacmartinscode/)
   [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:isaacmartins.code@gmail.com)
   
-  Olá! Sou Isaac Martins Cardoso, técnico em Desenvolvimento de Sistemas (2022–2024) e atualmente graduando em superior de Análise e Desenvolvimento de Sistemas (2025–2028). Tenho como foco o desenvolvimento Back-End Web, campo no qual venho me aprofundando e construindo meus primeiros projetos. Busco evoluir na área, atingindo um vasto conhecimento em frameworks como Spring e no desenvolvimento de APIs, estando por trás da lógica dos sistemas e da arquitetura dos mesmos.
+  estudante no segundo semestre do curso de Análise e Desenvolvimento de Sistemas e formado como técnico em Desenvolvimento de Sistemas. Apaixonado por resolução de problemas e tecnologia, buscando o aprimoramento contínuo como estudante e pessoa. Além da programação, tenho xadrez como hobby.
 
   ##
 

@@ -12,7 +12,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaacmartinscode/)
   [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:isaacmartins.code@gmail.com)
   
-  estudante no segundo semestre do curso de Análise e Desenvolvimento de Sistemas e formado como técnico em Desenvolvimento de Sistemas. Apaixonado por resolução de problemas e tecnologia, buscando o aprimoramento contínuo como estudante e pessoa. Além da programação, tenho xadrez como hobby.
+  estudante no segundo semestre do curso de Análise e Desenvolvimento de Sistemas e formado como técnico em Desenvolvimento de Sistemas. Fascinado com a possibilidade criativa proporcionada pela tecnologia, buscando o aprimoramento contínuo como estudante e pessoa. Além da programação, pratico o xadrez como hobby.
 
   ##
 

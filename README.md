@@ -21,7 +21,7 @@
   ##
 
   ### Main Stack and Tools
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,idea,git,github,postman"/>‎ ‎ 
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,idea,eclipse,git,github,postman"/>‎ ‎ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width=48>
   
   #
